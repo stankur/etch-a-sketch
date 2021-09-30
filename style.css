@@ -1,0 +1,23 @@
+#container {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    display: grid;
+}
+
+.hover {
+    background-color: black;
+}
+
+.untouched {
+    background-color: gray;
+}
+
+#new-resolution-request {
+    text-align: center;
+    background-color: gray;
+}
+
+body {
+    text-align: center;
+}
